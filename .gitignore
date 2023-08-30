@@ -4,6 +4,7 @@
 .LSOverride
 medias/
 .env/
+Algorithms/
 
 # Icon must end with two \r
 Icon
