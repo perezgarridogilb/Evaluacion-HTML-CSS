@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+medias/
+.env/
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+*.txt
+._*
