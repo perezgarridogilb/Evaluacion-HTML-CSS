@@ -1,0 +1,28 @@
+@media (min-width: 992px) {
+
+    .main-section {
+        margin-top: 3rem;
+        /* Margen base */
+    }
+
+    .custom-image {
+        float: left;
+        width: 200px;
+        height: auto;
+        margin-top: 10px;
+        margin-right: 25px;
+    }
+
+}
+
+
+@media screen and (max-width: 992px) {
+    .main-section {
+        margin-top: 5rem !important;
+        /* Margen mayor para pantallas pequeñas */
+    }
+
+    #masthead a {
+        max-width: 960px;
+    }
+}
