@@ -127,7 +127,8 @@ footer {
   height: 50px;
 }
 
-h3, h2 {
+h3,
+h2 {
   padding-bottom: 20px;
   margin-bottom: 15px;
   line-height: 22px;
@@ -231,5 +232,3 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
-
-
